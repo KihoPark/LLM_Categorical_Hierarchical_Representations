@@ -1,12 +1,18 @@
+#%%
 import torch
 import numpy as np
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from tqdm import tqdm
+import dotenv
+
+config = dotenv.dotenv_values(".env")
+model_name = config["MODEL_NAME"]
+g_file_path = config["G_FILE_PATH"]
 
 ### load model ###
 device = torch.device("cuda:0")
-tokenizer = AutoTokenizer.from_pretrained("google/gemma-2b")
-model = AutoModelForCausalLM.from_pretrained("google/gemma-2b",
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForCausalLM.from_pretrained(model_name,
                                              torch_dtype=torch.float32,
                                              device_map="auto")
 
@@ -26,4 +32,4 @@ g = centered_gamma @ inv_sqrt_Cov_gamma
 
 
 ## Use this PATH to load g in the notebooks
-torch.save(g, "FILE_PATH")
+torch.save(g, g_file_path)

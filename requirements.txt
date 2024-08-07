@@ -1,0 +1,12 @@
+torch
+numpy
+transformers
+accelerate
+bitsandbytes
+huggingface-hub
+matplotlib
+inflect
+seaborn
+networkx
+scikit-learn
+python-dotenv

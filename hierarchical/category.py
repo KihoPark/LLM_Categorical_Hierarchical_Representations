@@ -72,15 +72,15 @@ def estimate_cat_dir(category_lemmas, unembed, vocab_dict):
 import inflect
 p = inflect.engine()
 
-def noun_to_gemma_vocab_elements(word, vocab_set):
+def noun_to_gemma_vocab_elements(word, vocab_set, space_char: str = "▁"):
     word = word.lower()
     plural = p.plural(word)
     add_cap_and_plural = [word, word.capitalize(), plural, plural.capitalize()]
-    add_space = ["▁" + w for w in add_cap_and_plural]
+    add_space = [space_char + w for w in add_cap_and_plural]
     return vocab_set.intersection(add_space)
 
 
-def get_animal_category(data, categories, vocab_dict, g):
+def get_animal_category(data, categories, vocab_dict, g, space_char: str = "▁"):
     vocab_set = set(vocab_dict.keys())
 
     animals = {}
@@ -97,7 +97,7 @@ def get_animal_category(data, categories, vocab_dict, g):
     for category in categories:
         lemmas = data[category]
         for w in lemmas:
-            animals[category].extend(noun_to_gemma_vocab_elements(w, vocab_set))
+            animals[category].extend(noun_to_gemma_vocab_elements(w, vocab_set, space_char=space_char))
         
         for word in animals[category]:
             animals_ind[category].append(vocab_dict[word])
