@@ -9,3 +9,4 @@ inflect
 seaborn
 networkx
 scikit-learn
+python-dotenv
