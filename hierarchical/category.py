@@ -5,19 +5,19 @@ import torch
 from sklearn.covariance import ledoit_wolf
 
 
-def get_categories(noun_or_verb = 'noun'):
+def get_categories(noun_or_verb = 'noun', model_name = 'gemma'):
 
     cats = {}
     if noun_or_verb == 'noun':
-        with open('data/noun_synsets_wordnet_gemma.json', 'r') as f:
+        with open(f'data/noun_synsets_wordnet_{model_name}.json', 'r') as f:
             for line in f:
                 cats.update(json.loads(line))
-        G = nx.read_adjlist("data/noun_synsets_wordnet_hypernym_graph.adjlist", create_using=nx.DiGraph())
+        G = nx.read_adjlist(f"data/noun_synsets_wordnet_hypernym_graph_{model_name}.adjlist", create_using=nx.DiGraph())
     elif noun_or_verb == 'verb':
-        with open('data/verb_synsets_wordnet_gemma.json', 'r') as f:
+        with open(f'data/verb_synsets_wordnet_{model_name}.json', 'r') as f:
             for line in f:
                 cats.update(json.loads(line))
-        G = nx.read_adjlist("data/verb_synsets_wordnet_hypernym_graph.adjlist", create_using=nx.DiGraph())
+        G = nx.read_adjlist(f"data/verb_synsets_wordnet_hypernym_graph_{model_name}.adjlist", create_using=nx.DiGraph())
     
     cats = {k: list(set(v)) for k, v in cats.items() if len(set(v)) > 50}
     G = nx.DiGraph(G.subgraph(cats.keys()))
@@ -72,15 +72,15 @@ def estimate_cat_dir(category_lemmas, unembed, vocab_dict):
 import inflect
 p = inflect.engine()
 
-def noun_to_gemma_vocab_elements(word, vocab_set, space_char: str = "▁"):
+def noun_to_gemma_vocab_elements(word, vocab_set):
     word = word.lower()
     plural = p.plural(word)
     add_cap_and_plural = [word, word.capitalize(), plural, plural.capitalize()]
-    add_space = [space_char + w for w in add_cap_and_plural]
+    add_space = ["▁" + w for w in add_cap_and_plural]
     return vocab_set.intersection(add_space)
 
 
-def get_animal_category(data, categories, vocab_dict, g, space_char: str = "▁"):
+def get_animal_category(data, categories, vocab_dict, g):
     vocab_set = set(vocab_dict.keys())
 
     animals = {}
@@ -97,7 +97,7 @@ def get_animal_category(data, categories, vocab_dict, g, space_char: str = "▁"
     for category in categories:
         lemmas = data[category]
         for w in lemmas:
-            animals[category].extend(noun_to_gemma_vocab_elements(w, vocab_set, space_char=space_char))
+            animals[category].extend(noun_to_gemma_vocab_elements(w, vocab_set))
         
         for word in animals[category]:
             animals_ind[category].append(vocab_dict[word])

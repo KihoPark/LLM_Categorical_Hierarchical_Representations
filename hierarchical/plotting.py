@@ -8,6 +8,8 @@ import matplotlib.gridspec as gridspec
 from mpl_toolkits.axes_grid1 import make_axes_locatable
 import seaborn as sns
 import matplotlib.patches as mpatches
+from .category import category_to_indices
+
 
 sns.set_theme(
     context="paper",
@@ -19,7 +21,7 @@ sns.set_theme(
 
 def cos_heatmap(mats, titles = None, figsize = (19, 8),
                 labels = None,
-                cmap=None, use_absvals=False, save_as = None):
+                cmap=None, use_absvals=False, save_to = None):
     fig = plt.figure(figsize=figsize)
     gs = gridspec.GridSpec(1, len(mats), wspace=0)
 
@@ -56,8 +58,8 @@ def cos_heatmap(mats, titles = None, figsize = (19, 8),
     cbar = plt.colorbar(ims[-1], cax=cax, orientation='vertical')
 
     plt.tight_layout()
-    if save_as != None:
-        plt.savefig(f"figures/{save_as}.pdf", bbox_inches='tight')
+    if save_to != None:
+        plt.savefig(save_to, bbox_inches='tight')
     plt.show()
 
 def proj_2d(dir1, dir2, unembed, vocab_list, ax,
@@ -399,3 +401,61 @@ def proj_2d_double_diff(higher1, higher2, subcat1, subcat2, unembed, vocab_list,
     ax.set_ylabel(ylabel)
     ax.set_title(title)
 
+
+def show_evaluation(vec_reps_split, sorted_keys, vocab_dict, version = 'lda', save_to=None):
+    ind, original, shuffled = ({'train': [], 'test': [], 'random': []} for _ in range(3))
+    g = vec_reps_split['g']
+    shuffled_g = vec_reps_split['shuffled_g']
+
+    num_samples = 200000
+    torch.random.manual_seed(100)
+    all_indices = torch.randperm(g.shape[0])
+    ind['random'] = all_indices[:num_samples]
+    
+    for node in sorted_keys:
+        original_dir = vec_reps_split['original']['split'][node][version]
+        original_dir = original_dir / original_dir.norm()**2
+        shuffled_dir = vec_reps_split['shuffled']['split'][node][version]
+        shuffled_dir = shuffled_dir / shuffled_dir.norm()**2
+
+        ind['train'] = category_to_indices(vec_reps_split['train_lemmas'][node], vocab_dict)
+        ind['test'] = category_to_indices(vec_reps_split['test_lemmas'][node], vocab_dict)
+
+        for key in ind.keys():
+            original[key].append((g[ind[key]] @ original_dir).cpu().numpy())
+            shuffled[key].append((shuffled_g[ind[key]] @ shuffled_dir).cpu().numpy())
+
+    
+    inds = range(len(sorted_keys))
+    colors = {'train': 'green', 'test': 'blue', 'random': 'orange'}
+    fig, ax = plt.subplots(1, 2, figsize=(18, 5))
+    for key in ind.keys():
+        proj_mean = [proj.mean() for proj in original[key]]
+        proj_std = [proj.std() for proj in original[key]]
+
+        ax[0].plot(inds, proj_mean, alpha=0.8, color = colors[key], linewidth = 1, label=key)
+        # ax[0].scatter(inds, proj_mean, alpha=0.7, color = colors[key], s = 3, label=key)
+        ax[0].errorbar(inds, proj_mean, yerr=proj_std, color = colors[key], capsize=3, ecolor = colors[key], alpha=0.1)
+    # ax[0].set_xticks([])
+    ax[0].set_title('Original Unembeddings')
+    ax[0].set_ylim(-1,2)
+
+    for key in ind.keys():
+        proj_mean = [proj.mean() for proj in shuffled[key]]
+        proj_std = [proj.std() for proj in shuffled[key]]
+
+        ax[1].plot(inds, proj_mean, alpha=0.8, color = colors[key], linewidth = 1, label=key)
+        # ax[1].scatter(inds, proj_mean, alpha=0.7, color = colors[key], s = 3, label=key)
+        ax[1].errorbar(inds, proj_mean, yerr=proj_std, color = colors[key], capsize=3, ecolor = colors[key], alpha=0.1)
+    # ax[1].set_xticks([])
+    ax[1].set_title('Shuffled Unembeddings')
+    ax[1].set_ylim(-1,2)
+
+    handles, labels = ax[0].get_legend_handles_labels()
+    fig.legend(handles, labels, loc='lower center', bbox_to_anchor=(0.5, -0.04), ncol=3)
+    fig.supxlabel(rf'Binary Features in WordNet Hierarchy',x=0.5, y=0.08, fontsize=17)
+    # fig.supylabel(rf'$(g(y)^\top\bar\ell_w) / \|\bar\ell_w\|^2$')
+    plt.tight_layout()
+    if save_to is not None:
+        plt.savefig(save_to, bbox_inches='tight')
+    plt.show()

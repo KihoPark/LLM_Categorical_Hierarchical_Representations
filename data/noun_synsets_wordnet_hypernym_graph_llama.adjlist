@@ -1,0 +1,1482 @@
+entity.n.01 physical_entity.n.01 abstraction.n.06
+physical_entity.n.01 thing.n.12 object.n.01 causal_agent.n.01 matter.n.03 process.n.06
+abstraction.n.06 psychological_feature.n.01 attribute.n.02 group.n.01 relation.n.01 communication.n.02 measure.n.02 set.n.02
+thing.n.12 body_of_water.n.01 part.n.03 unit.n.05
+object.n.01 whole.n.02 location.n.01 part.n.02 geological_formation.n.01 land.n.04 land.n.02
+whole.n.02 living_thing.n.01 natural_object.n.01 artifact.n.01
+living_thing.n.01 organism.n.01 cell.n.02
+organism.n.01 person.n.01 animal.n.01 plant.n.02 microorganism.n.01
+cell.n.02
+causal_agent.n.01 person.n.01 agent.n.01 danger.n.03 agent.n.03
+person.n.01 adult.n.01 anomaly.n.02 applicant.n.01 capitalist.n.02 commoner.n.01 communicator.n.01 contestant.n.01 creator.n.02 disputant.n.01 entertainer.n.01 expert.n.01 female.n.02 inhabitant.n.01 intellectual.n.01 juvenile.n.01 lover.n.01 leader.n.01 male.n.02 money_handler.n.01 national.n.01 nonworker.n.01 peer.n.01 perceiver.n.01 religious_person.n.01 traveler.n.01 unfortunate.n.01 unwelcome_person.n.01 unskilled_person.n.01 worker.n.01 african.n.01 person_of_color.n.01 amerindian.n.01 acquirer.n.01 adjudicator.n.01 advocate.n.01 bad_person.n.01 combatant.n.01 domestic_partner.n.01 enrollee.n.01 follower.n.01 friend.n.01 gambler.n.01 good_person.n.01 killer.n.01 relative.n.01 occultist.n.01 owner.n.02 party.n.05 preserver.n.03 radical.n.03 ruler.n.01 scientist.n.01 simpleton.n.01 user.n.01 victim.n.02
+animal.n.01 domestic_animal.n.01 young.n.01 chordate.n.01 invertebrate.n.01
+plant.n.02 plant.n.02.other spermatophyte.n.01 herb.n.01 vine.n.01 woody_plant.n.01 bulbous_plant.n.01
+natural_object.n.01 body.n.01 body.n.04 celestial_body.n.01 covering.n.01 plant_part.n.01
+matter.n.03 substance.n.01 substance.n.07 fluid.n.02 solid.n.01
+substance.n.01 body_substance.n.01 material.n.01 mixture.n.01 chemical_element.n.01 activator.n.01 fluid.n.01
+part.n.01 substance.n.01 language_unit.n.01
+substance.n.07 food.n.01 inhibitor.n.01 agent.n.03 fuel.n.01
+food.n.01 fare.n.04 foodstuff.n.02 nutriment.n.01 feed.n.01 beverage.n.01
+artifact.n.01 article.n.02 block.n.01 commodity.n.01 covering.n.02 creation.n.02 decoration.n.01 excavation.n.03 fabric.n.01 facility.n.01 fixture.n.01 instrumentality.n.03 layer.n.01 line.n.18 opening.n.10 padding.n.01 plaything.n.01 sheet.n.06 strip.n.02 structure.n.01 surface.n.01 way.n.06 weight.n.04 building_material.n.01
+article.n.02
+psychological_feature.n.01 cognition.n.01 motivation.n.01 event.n.01
+cognition.n.01 ability.n.02 practice.n.05 cognitive_factor.n.01 equivalent.n.01 process.n.02 process.n.04 structure.n.03 content.n.05 information.n.02 attitude.n.01
+motivation.n.01
+attribute.n.02 state.n.02 shape.n.02 time.n.05 trait.n.01 quality.n.01 property.n.02 inheritance.n.04
+state.n.02 feeling.n.01 skillfulness.n.01 condition.n.03 condition.n.01 situation.n.01 relationship.n.02 relationship.n.03 degree.n.02 status.n.01 being.n.01 order.n.03 disorder.n.03 illumination.n.02 freedom.n.01 action.n.02 inaction.n.01 temporary_state.n.01 separation.n.01 union.n.04 perfection.n.01 imperfection.n.01
+feeling.n.01 emotion.n.01 desire.n.01 pleasure.n.01 pain.n.02 liking.n.01 dislike.n.02 agitation.n.03 sadness.n.01 sympathy.n.02
+location.n.01 line.n.11 point.n.02 region.n.01 region.n.03
+shape.n.02 solid.n.03 figure.n.06 line.n.04 angular_shape.n.01 round_shape.n.01 amorphous_shape.n.01
+time.n.05
+event.n.01 act.n.02 group_action.n.01 happening.n.01 social_event.n.01
+process.n.06 phenomenon.n.01 decrease.n.02 economic_process.n.01 human_process.n.01 increase.n.03 natural_process.n.01 organic_process.n.01 processing.n.01
+act.n.02 action.n.01 acquiring.n.01 causing.n.01 departure.n.01 discovery.n.01 disposal.n.03 implementation.n.02 propulsion.n.02 recovery.n.03 running_away.n.01 touch.n.05 nonaccomplishment.n.01 rejection.n.01 activity.n.01 judgment.n.02 inactivity.n.03 hindrance.n.03 group_action.n.01 distribution.n.03 communication.n.01 speech_act.n.01
+group.n.01 arrangement.n.02 biological_group.n.01 community.n.06 people.n.01 social_group.n.01 collection.n.01 multitude.n.03 system.n.02 halogen.n.01
+relation.n.01 possession.n.02 position.n.07 mathematical_relation.n.01 connection.n.01 linguistic_relation.n.01 part.n.01 magnitude_relation.n.01 opposition.n.02
+possession.n.02 property.n.01 transferred_property.n.01 assets.n.01 liabilities.n.01
+communication.n.02 message.n.01 language.n.01 written_communication.n.01 message.n.02 signal.n.01 sign.n.02 indication.n.01 visual_communication.n.01 display.n.05 expressive_style.n.01 auditory_communication.n.01 document.n.03
+measure.n.02 fundamental_quantity.n.01 definite_quantity.n.01 indefinite_quantity.n.01 relative_quantity.n.01 system_of_measurement.n.01 time_unit.n.01 point.n.06 time_interval.n.01
+phenomenon.n.01 natural_phenomenon.n.01 consequence.n.01
+action.n.01 kindness.n.03 accomplishment.n.01 interaction.n.01 arrival.n.02 choice.n.02 change.n.03 aggression.n.03 politeness.n.02
+kindness.n.03
+accomplishment.n.01 feat.n.01 attainment.n.01 liberation.n.01
+feat.n.01
+interaction.n.01
+acquiring.n.01 acquisition.n.01 appropriation.n.03
+causing.n.01 sending.n.01 influence.n.02
+departure.n.01
+discovery.n.01
+disposal.n.03
+implementation.n.02
+propulsion.n.02 throw.n.01 push.n.01 pull.n.01 jump.n.06 shooting.n.01
+recovery.n.03
+running_away.n.01
+touch.n.05
+arrival.n.02
+completion.n.02
+attainment.n.01
+nonaccomplishment.n.01 failure.n.01 mistake.n.01
+failure.n.01
+mistake.n.01
+acquisition.n.01
+appropriation.n.03
+liberation.n.01
+musical_performance.n.01
+performing_arts.n.01 musical_performance.n.01 dancing.n.01 acting.n.01
+throw.n.01
+push.n.01
+pull.n.01
+jump.n.06
+sending.n.01
+shooting.n.01
+change_of_integrity.n.01 joining.n.01 breakage.n.03 combination.n.07 opening.n.03 separation.n.09 transformation.n.05
+joining.n.01
+influence.n.02
+choice.n.02
+change.n.03 change_of_state.n.01 motion.n.06 movement.n.11 motion.n.03 change_of_direction.n.01 change_of_magnitude.n.01 change_of_integrity.n.01 change_of_shape.n.01 satisfaction.n.05
+change_of_state.n.01 termination.n.05 beginning.n.05 arousal.n.01 improvement.n.02
+rejection.n.01
+termination.n.05 completion.n.02 relinquishment.n.02 destruction.n.01 killing.n.02
+relinquishment.n.02
+destruction.n.01
+killing.n.02
+beginning.n.05
+arousal.n.01
+improvement.n.02 development.n.01 cleaning.n.01 repair.n.01
+development.n.01
+cleaning.n.01
+work.n.01 wash.n.02 labor.n.02 investigation.n.02 care.n.01 duty.n.02 undertaking.n.01
+wash.n.02
+repair.n.01
+motion.n.06 locomotion.n.02 travel.n.01 maneuver.n.03
+movement.n.11 transportation.n.02 insertion.n.02
+locomotion.n.02
+travel.n.01 walk.n.04 air_travel.n.01 journey.n.01 water_travel.n.01
+walk.n.04
+collection.n.01 procession.n.02 agglomeration.n.01 set.n.01 class.n.01 vegetation.n.01
+procession.n.02
+group_action.n.01 procession.n.02 military_action.n.01 conflict.n.01 transaction.n.01 social_control.n.01 resistance.n.11 due_process.n.01 cooperation.n.01 assembly.n.06
+air_travel.n.01
+journey.n.01
+water_travel.n.01
+transportation.n.02
+insertion.n.02
+motion.n.03 disturbance.n.05 rotation.n.01 stroke.n.12
+disturbance.n.05
+rotation.n.01
+change_of_direction.n.01
+stroke.n.12
+change_of_magnitude.n.01 decrease.n.04 increase.n.05
+decrease.n.04 depletion.n.01 shortening.n.02
+depletion.n.01
+shortening.n.02
+increase.n.05
+breakage.n.03
+combination.n.07
+opening.n.03
+separation.n.09 division.n.03 removal.n.01
+division.n.03
+removal.n.01
+transformation.n.05
+change_of_shape.n.01
+activity.n.01 practice.n.01 diversion.n.01 game.n.01 turn.n.03 music.n.03 acting.n.01 work.n.01 occupation.n.01 writing.n.05 role.n.04 wrongdoing.n.02 attempt.n.01 control.n.05 protection.n.01 sensory_activity.n.01 education.n.01 training.n.01 representation.n.10 creation.n.01 use.n.01 operation.n.05 measurement.n.01 calibration.n.01 organization.n.06 grouping.n.02 continuance.n.01 procedure.n.01 ceremony.n.03 worship.n.01 concealment.n.03 provision.n.02 preparation.n.01 aid.n.02 behavior.n.01
+practice.n.01
+survival.n.03
+diversion.n.01 celebration.n.02 dancing.n.01 entertainment.n.01 play.n.14 sport.n.01
+celebration.n.02
+dancing.n.01
+entertainment.n.01 entertainment.n.01.other show.n.01.other presentation.n.02.other musical_performance.n.01
+vice.n.02
+sport.n.01 contact_sport.n.01 outdoor_sport.n.01 water_sport.n.01 athletic_game.n.01
+contact_sport.n.01
+outdoor_sport.n.01
+water_sport.n.01
+game.n.01 athletic_game.n.01 card_game.n.01
+turn.n.03
+athletic_game.n.01 outdoor_game.n.01 court_game.n.01
+outdoor_game.n.01
+court_game.n.01
+card_game.n.01
+play.n.14
+music.n.03
+acting.n.01
+maneuver.n.03 maneuver.n.03.other tennis_stroke.n.01 golf_stroke.n.01
+play.n.03
+tennis_stroke.n.01
+golf_stroke.n.01
+occupation.n.01 employment.n.02 position.n.06 trade.n.02 profession.n.02
+employment.n.02
+position.n.06
+trade.n.02
+profession.n.02
+writing.n.05
+labor.n.02 effort.n.02 manual_labor.n.01
+effort.n.02
+manual_labor.n.01
+investigation.n.02 police_work.n.01 examination.n.01 research.n.01
+police_work.n.01
+examination.n.01
+research.n.01
+care.n.01
+medical_procedure.n.01
+duty.n.02
+role.n.04
+assignment.n.05
+wrongdoing.n.02 misbehavior.n.01 transgression.n.01 dishonesty.n.02 falsification.n.02
+misbehavior.n.01
+transgression.n.01 vice.n.02 sin.n.02 crime.n.01
+dishonesty.n.02
+falsification.n.02
+sin.n.02
+crime.n.01 felony.n.01 fraud.n.01
+felony.n.01
+fraud.n.01
+attempt.n.01
+undertaking.n.01 assignment.n.05 enterprise.n.01 venture.n.01
+enterprise.n.01
+venture.n.01
+control.n.05 regulation.n.06 possession.n.01 grasping.n.02 self-denial.n.02 restraint.n.01
+regulation.n.06
+possession.n.01
+grasping.n.02
+protection.n.01
+bodily_process.n.01 breath.n.01 consumption.n.01 sexual_activity.n.01 reaction.n.03 discharge.n.04
+breath.n.01
+consumption.n.01
+sexual_activity.n.01
+reaction.n.03
+procedure.n.01 calculation.n.01 medical_procedure.n.01
+calculation.n.01
+judgment.n.02
+sensory_activity.n.01
+education.n.01
+training.n.01
+representation.n.10
+creation.n.01 creating_from_raw_materials.n.01 creating_by_mental_acts.n.01 art.n.02 creating_by_removal.n.01
+creating_from_raw_materials.n.01
+industry.n.02
+commercial_enterprise.n.02 industry.n.02 finance.n.01
+creating_by_mental_acts.n.01
+art.n.02
+creating_by_removal.n.01
+use.n.01
+military_action.n.01
+operation.n.05 attack.n.01 information_gathering.n.01
+conflict.n.01
+aggression.n.03
+attack.n.01
+information_gathering.n.01
+measurement.n.01
+calibration.n.01
+organization.n.06
+grouping.n.02
+continuance.n.01 repetition.n.02 survival.n.03
+repetition.n.02
+ceremony.n.03
+worship.n.01
+concealment.n.03
+provision.n.02
+inactivity.n.03
+self-denial.n.02
+satisfaction.n.05
+hindrance.n.03
+distribution.n.03 allotment.n.02 sharing.n.04
+allotment.n.02
+sharing.n.04
+transaction.n.01 transaction.n.01.other commercial_enterprise.n.02 selling.n.01 payment.n.02
+finance.n.01
+selling.n.01
+payment.n.02
+social_control.n.01 enforcement.n.01 socialization.n.03 duty.n.01 management.n.01 punishment.n.01
+enforcement.n.01
+socialization.n.03
+duty.n.01
+management.n.01
+preparation.n.01
+restraint.n.01
+punishment.n.01
+resistance.n.11
+due_process.n.01 proceeding.n.01 judgment.n.03
+proceeding.n.01
+judgment.n.03
+cooperation.n.01
+aid.n.02
+behavior.n.01
+politeness.n.02
+assembly.n.06
+domestic_animal.n.01
+young.n.01
+microorganism.n.01
+soft-finned_fish.n.01
+chordate.n.01 aquatic_vertebrate.n.01 bird.n.01 reptile.n.01 mammal.n.01
+aquatic_vertebrate.n.01 fish.n.01.other soft-finned_fish.n.01 spiny-finned_fish.n.01
+bird.n.01 passerine.n.01 bird_of_prey.n.01 gallinaceous_bird.n.01 aquatic_bird.n.01
+passerine.n.01
+bird_of_prey.n.01
+reptile.n.01
+invertebrate.n.01
+gallinaceous_bird.n.01
+aquatic_bird.n.01
+mammal.n.01 carnivore.n.01 ungulate.n.01 primate.n.02
+carnivore.n.01 canine.n.02 feline.n.01
+canine.n.02
+feline.n.01
+ungulate.n.01 odd-toed_ungulate.n.01 even-toed_ungulate.n.01
+odd-toed_ungulate.n.01
+even-toed_ungulate.n.01
+primate.n.02
+spiny-finned_fish.n.01
+way.n.06 access.n.03 passage.n.03 path.n.02 road.n.01
+access.n.03
+component.n.03 accessory.n.02 addition.n.01 hardware.n.03
+accessory.n.02
+addition.n.01
+decoration.n.01 adornment.n.01 design.n.04
+adornment.n.01
+craft.n.02 aircraft.n.01 vessel.n.02
+aircraft.n.01
+weaponry.n.01 ammunition.n.01 armament.n.01
+ammunition.n.01
+drug_of_abuse.n.01 soft_drug.n.01 tobacco.n.01 alcohol.n.01
+stimulant.n.02
+anesthetic.n.01
+equipment.n.01 apparatus.n.01 electronic_equipment.n.01 game_equipment.n.01 gear.n.04 photographic_equipment.n.01 sports_equipment.n.01
+apparatus.n.01
+part.n.02 appendage.n.03 component.n.03 piece.n.01 section.n.04
+appendage.n.03
+durables.n.01 kitchen_appliance.n.01 white_goods.n.01
+structure.n.01 area.n.05 building.n.01 building_complex.n.01 defensive_structure.n.01 establishment.n.04 housing.n.01 obstruction.n.01 projection.n.04 shelter.n.01 supporting_structure.n.01
+area.n.05 enclosure.n.01 room.n.01 storage_space.n.01
+armament.n.01
+creation.n.02 art.n.01 needlework.n.01 product.n.02 representation.n.02 piece.n.06
+art.n.01 graphic_art.n.01 plastic_art.n.01
+clothing.n.01 attire.n.01 garment.n.01 headdress.n.01 woman's_clothing.n.01
+attire.n.01
+container.n.01 bag.n.01 box.n.01 case.n.05 receptacle.n.01 vessel.n.03 wheeled_vehicle.n.01
+bag.n.01
+case.n.05
+game_equipment.n.01 ball.n.01 man.n.10
+ball.n.01
+strip.n.02
+implement.n.01 bar.n.03 rod.n.01 stick.n.01 tool.n.01 utensil.n.01
+bar.n.03
+obstruction.n.01
+sports_equipment.n.01 baseball_equipment.n.01 golf_equipment.n.01
+baseball_equipment.n.01
+piece.n.01 beam.n.02 piece_of_cloth.n.01
+beam.n.02
+bedroom_furniture.n.01
+cloth_covering.n.01 bedclothes.n.01 dressing.n.04
+bedclothes.n.01
+protective_covering.n.01 blind.n.03 housing.n.02 shield.n.01
+blind.n.03
+block.n.01
+vessel.n.02 boat.n.01 ship.n.01
+boat.n.01
+product.n.02 book.n.02 work.n.02
+book.n.02
+box.n.01
+strengthener.n.01
+building.n.01 hotel.n.01 place_of_worship.n.01
+building_complex.n.01
+controlled_substance.n.01 club_drug.n.01 hard_drug.n.01
+soft_drug.n.01
+car.n.01
+wheeled_vehicle.n.01 car.n.02 horse-drawn_vehicle.n.01 self-propelled_vehicle.n.01
+car.n.02
+paper.n.01 card.n.01 sheet.n.02
+card.n.01
+horse-drawn_vehicle.n.01
+room.n.01 cell.n.07 compartment.n.02
+cell.n.07
+enclosure.n.01
+man.n.10
+electrical_device.n.01 circuit.n.01 reactor.n.01 transducer.n.01
+circuit.n.01
+covering.n.02 cloth_covering.n.01 clothing.n.01 coating.n.01 flap.n.01 footwear.n.02 protective_covering.n.01
+consumer_goods.n.01 clothing.n.01 durables.n.01
+club_drug.n.01
+overgarment.n.01
+coating.n.01 paint.n.01
+hard_drug.n.01
+commodity.n.01 consumer_goods.n.01 drygoods.n.01 merchandise.n.01
+system.n.01 communication_system.n.01 network.n.05
+communication_system.n.01
+compartment.n.02
+machine.n.01 computer.n.01 motor.n.01 power_tool.n.01
+computer.n.01
+network.n.05
+device.n.01 conductor.n.04 contraceptive.n.01 dental_appliance.n.01 electrical_device.n.01 electronic_device.n.01 explosive_device.n.01 holding_device.n.01 indicator.n.03 instrument.n.01 machine.n.01 mechanism.n.05 memory_device.n.01 musical_instrument.n.01 optical_device.n.01 restraint.n.06 source_of_illumination.n.01 strengthener.n.01 support.n.10
+conductor.n.04
+passage.n.03 conduit.n.01 passageway.n.01
+conduit.n.01
+instrumentality.n.03 connection.n.03 container.n.01 conveyance.n.03 device.n.01 equipment.n.01 furnishing.n.02 implement.n.01 system.n.01 toiletry.n.01 weaponry.n.01 medium.n.01
+connection.n.03
+contraceptive.n.01
+mechanism.n.05 control.n.09 gear.n.03 mechanical_device.n.01 rotating_mechanism.n.01
+control.n.09 regulator.n.01 switch.n.01
+conveyance.n.03 public_transport.n.01 vehicle.n.01
+representation.n.02 copy.n.02 document.n.02 drawing.n.02 model.n.04 photograph.n.01 picture.n.01 stage_set.n.01
+copy.n.02
+line.n.18 cord.n.01 rope.n.01
+cord.n.01
+toiletry.n.01
+vehicle.n.01 craft.n.02 military_vehicle.n.01 wheeled_vehicle.n.01
+cutting_implement.n.01
+tool.n.01 cutting_implement.n.01 hand_tool.n.01 power_tool.n.01
+defensive_structure.n.01
+dental_appliance.n.01
+facility.n.01 depository.n.01 military_installation.n.01 station.n.01
+depository.n.01
+design.n.04 emblem.n.01 marking.n.02
+electronic_device.n.01
+document.n.02
+medicine.n.02
+drawing.n.02
+dressing.n.04
+agent.n.03 agent.n.03.other anesthetic.n.01 controlled_substance.n.01 drug_of_abuse.n.01 medicine.n.02 narcotic.n.01 psychoactive_drug.n.01 stimulant.n.02
+drygoods.n.01
+housing.n.01 dwelling.n.01 living_quarters.n.01
+dwelling.n.01
+side.n.05 edge.n.03 front.n.04
+edge.n.03
+limit.n.04
+transducer.n.01
+electronic_equipment.n.01
+emblem.n.01
+motor.n.01
+establishment.n.04 institution.n.02 place_of_business.n.01
+excavation.n.03
+chemical.n.01 explosive.n.01 compound.n.02
+explosive.n.01
+explosive_device.n.01
+fabric.n.01 piece_of_cloth.n.01
+restraint.n.06
+gun.n.01
+fixture.n.01
+flap.n.01
+footwear.n.02
+supporting_structure.n.01 framework.n.03 support.n.07
+framework.n.03
+front.n.04
+furnishing.n.02 furnishing.n.02.other bedroom_furniture.n.01 seat.n.03 table.n.02
+garment.n.01 overgarment.n.01 undergarment.n.01
+gear.n.04
+gear.n.03
+golf_equipment.n.01
+graphic_art.n.01
+weapon.n.01 gun.n.01 projectile.n.01
+psychoactive_drug.n.01
+hand_tool.n.01
+narcotic.n.01 hard_drug.n.01 soft_drug.n.01
+hardware.n.03
+headdress.n.01
+holding_device.n.01
+surface.n.01 horizontal_surface.n.01 side.n.05
+horizontal_surface.n.01
+hotel.n.01
+housing.n.02
+indicator.n.03
+institution.n.02
+instrument.n.01 instrument_of_punishment.n.01 measuring_instrument.n.01 optical_instrument.n.01 scientific_instrument.n.01 weapon.n.01
+instrument_of_punishment.n.01
+topographic_point.n.01
+kitchen_appliance.n.01
+utensil.n.01
+source_of_illumination.n.01
+layer.n.01
+carrier.n.05
+living_quarters.n.01
+mechanical_device.n.01
+measuring_instrument.n.01
+memory_device.n.01
+place_of_business.n.01
+merchandise.n.01
+military_installation.n.01
+military_vehicle.n.01
+model.n.04
+self-propelled_vehicle.n.01 self-propelled_vehicle.n.01.other car.n.01 truck.n.01
+musical_instrument.n.01 percussion_instrument.n.01 stringed_instrument.n.01 wind_instrument.n.01
+needlework.n.01
+opening.n.10
+optical_device.n.01
+optical_instrument.n.01
+padding.n.01
+paint.n.01
+coloring_material.n.01 paint.n.01
+passageway.n.01
+path.n.02
+percussion_instrument.n.01
+photograph.n.01
+photographic_equipment.n.01
+picture.n.01
+piece_of_cloth.n.01
+place_of_worship.n.01
+plastic_art.n.01
+sheet.n.06
+plaything.n.01
+power_tool.n.01
+projectile.n.01
+projection.n.04
+public_transport.n.01
+reactor.n.01
+receptacle.n.01
+regulator.n.01
+road.n.01
+rod.n.01
+tobacco.n.01
+rope.n.01
+rotating_mechanism.n.01
+scientific_instrument.n.01
+solid_figure.n.01
+seat.n.03
+section.n.04
+shelter.n.01
+shield.n.01
+ship.n.01
+stage_set.n.01
+station.n.01
+stick.n.01
+storage_space.n.01
+stringed_instrument.n.01
+support.n.10 support.n.10.other beam.n.02 upright.n.01
+support.n.07
+switch.n.01
+table.n.02
+plant_product.n.01 tobacco.n.01
+truck.n.01
+undergarment.n.01
+upright.n.01
+agent.n.01
+vessel.n.03
+weight.n.04
+white_goods.n.01
+wind_instrument.n.01
+woman's_clothing.n.01
+work.n.02 work.n.02.other book.n.01 periodical.n.01
+geographic_point.n.01
+trait.n.01 character.n.03 nature.n.04 emotionality.n.01 activeness.n.02 drive.n.05 resoluteness.n.01 discipline.n.03 wisdom.n.02 demeanor.n.01
+character.n.03
+nature.n.04
+emotionality.n.01
+activeness.n.02
+quality.n.01 appearance.n.01 attraction.n.03 difficulty.n.04 suitability.n.01 characteristic.n.02 sameness.n.01 difference.n.01 elegance.n.01 morality.n.01 immorality.n.01 worth.n.02 good.n.03 bad.n.01 utility.n.02 asset.n.01 power.n.01 ability.n.01
+appearance.n.01 countenance.n.01 beauty.n.01 blemish.n.01
+countenance.n.01
+marking.n.02
+beauty.n.01
+attraction.n.03
+blemish.n.01
+difficulty.n.04
+suitability.n.01
+characteristic.n.02
+sameness.n.01
+difference.n.01
+elegance.n.01
+morality.n.01 righteousness.n.01 good.n.02
+righteousness.n.01
+immorality.n.01 unrighteousness.n.01 evil.n.03
+unrighteousness.n.01
+drive.n.05
+good.n.02 kindness.n.01 virtue.n.04
+kindness.n.01
+virtue.n.04 natural_virtue.n.01 theological_virtue.n.01
+natural_virtue.n.01
+theological_virtue.n.01
+evil.n.03
+resoluteness.n.01
+discipline.n.03
+wisdom.n.02
+demeanor.n.01
+property.n.02 heredity.n.02 manner.n.01 constitution.n.04 consistency.n.01 disposition.n.04 tactile_property.n.01 visual_property.n.01 sound_property.n.01 taste_property.n.01 bodily_property.n.01 physical_property.n.01 strength.n.01 temporal_property.n.01 spatial_property.n.01 magnitude.n.01 degree.n.01 size.n.02
+heredity.n.02
+inheritance.n.04
+manner.n.01
+constitution.n.04
+consistency.n.01
+disposition.n.04
+tactile_property.n.01
+visual_property.n.01 light.n.07 color.n.01
+light.n.07
+color.n.01 chromatic_color.n.01 achromatic_color.n.01
+chromatic_color.n.01 yellow.n.01 brown.n.01
+achromatic_color.n.01
+yellow.n.01
+brown.n.01
+sound_property.n.01
+taste_property.n.01
+bodily_property.n.01 physiological_property.n.01 position.n.04
+physiological_property.n.01
+physical_property.n.01 temperature.n.01 elasticity.n.01 length.n.01
+fundamental_quantity.n.01 temperature.n.01 length.n.01 time_period.n.01
+temperature.n.01
+elasticity.n.01
+strength.n.01
+degree.n.01
+temporal_property.n.01 temporal_arrangement.n.01 duration.n.03 pace.n.03
+temporal_arrangement.n.01
+duration.n.03
+pace.n.03
+spatial_property.n.01
+position.n.07 gradient.n.02 placement.n.01 room.n.02 direction.n.02
+gradient.n.02
+placement.n.01
+position.n.04
+magnitude.n.01 dimension.n.01 size.n.01 amount.n.02 extent.n.02
+dimension.n.01 length.n.01
+size.n.02
+size.n.01
+amount.n.02 quantity.n.02 increase.n.04
+quantity.n.02
+increase.n.04
+extent.n.02 scope.n.01 area.n.06
+scope.n.01
+area.n.06
+length.n.01
+worth.n.02
+good.n.03
+bad.n.01
+utility.n.02
+asset.n.01 resource.n.02 advantage.n.01
+resource.n.02
+advantage.n.01
+abstraction.n.01
+power.n.01 influence.n.01 control.n.01
+influence.n.01
+control.n.01
+ability.n.01
+body.n.01
+part.n.03 body_part.n.01 fragment.n.01
+body_part.n.01 area.n.03 external_body_part.n.01 structure.n.04 system.n.06 tissue.n.01 organ.n.01 process.n.05 joint.n.01 feature.n.02
+area.n.03
+external_body_part.n.01 extremity.n.01 extremity.n.05
+structure.n.04 passage.n.07 cavity.n.04 neural_structure.n.01 skeletal_structure.n.01
+system.n.06
+covering.n.01 body_covering.n.01 sheath.n.02
+body_covering.n.01
+sheath.n.02
+passage.n.07
+body_substance.n.01 body_substance.n.01.other blood.n.01 secretion.n.02
+tissue.n.01
+contractile_organ.n.01
+organ.n.01 contractile_organ.n.01 internal_organ.n.01 sense_organ.n.01 gland.n.01 reproductive_organ.n.01 erectile_organ.n.01
+internal_organ.n.01
+sense_organ.n.01
+cavity.n.04
+gland.n.01 exocrine_gland.n.01 endocrine_gland.n.01
+exocrine_gland.n.01
+endocrine_gland.n.01
+blood.n.01
+secretion.n.02
+neural_structure.n.01
+process.n.05
+reproductive_organ.n.01
+erectile_organ.n.01
+joint.n.01
+extremity.n.01
+extremity.n.05
+skeletal_structure.n.01
+feature.n.02
+wisdom.n.03
+ability.n.02 know-how.n.01 intelligence.n.01 aptitude.n.01 creativity.n.01 faculty.n.01
+know-how.n.01 wisdom.n.03 method.n.01
+intelligence.n.01
+aptitude.n.01 capability.n.03 natural_ability.n.01
+capability.n.03
+natural_ability.n.01
+creativity.n.01 creativity.n.01.other imaginary_place.n.01 imaginary_being.n.01
+imaginary_place.n.01
+skillfulness.n.01
+faculty.n.01 attention.n.05 sense.n.03
+attention.n.05
+sense.n.03 modality.n.03 sensitivity.n.01
+modality.n.03
+sensitivity.n.01
+method.n.01
+practice.n.05
+psychological_state.n.01 cognitive_state.n.01 mental_illness.n.01 agitation.n.01
+cognitive_state.n.01 consciousness.n.01 curiosity.n.01 confusion.n.02 doubt.n.01
+consciousness.n.01
+curiosity.n.01
+confusion.n.02
+cognitive_factor.n.01 difficulty.n.02 determinant.n.01
+difficulty.n.02
+determinant.n.01
+equivalent.n.01
+doubt.n.01
+process.n.02 basic_cognitive_process.n.01 higher_cognitive_process.n.01
+process.n.04
+basic_cognitive_process.n.01 attention.n.01 inattention.n.01 perception.n.03 classification.n.03 discrimination.n.02 learning.n.01 memory.n.02 representational_process.n.01
+attention.n.01
+inattention.n.01
+perception.n.03 sensation.n.01 somesthesia.n.01
+sensation.n.01 taste.n.01 sound.n.02
+taste.n.01
+sound.n.02
+somesthesia.n.01
+structure.n.03
+classification.n.03
+discrimination.n.02
+learning.n.01
+memory.n.02
+representational_process.n.01
+higher_cognitive_process.n.01 thinking.n.01 decision_making.n.01 knowing.n.01
+thinking.n.01 reasoning.n.01 consideration.n.01 explanation.n.02 planning.n.03 problem_solving.n.02
+reasoning.n.01
+consideration.n.01
+decision_making.n.01
+explanation.n.02
+planning.n.03
+problem_solving.n.02 inquiry.n.01 calculation.n.02
+inquiry.n.01
+calculation.n.02
+knowing.n.01
+content.n.05 idea.n.01 representation.n.01 belief.n.01 goal.n.01 education.n.02 experience.n.02 knowledge_domain.n.01
+information.n.02 datum.n.01 fact.n.01 example.n.01 evidence.n.01 stimulation.n.02
+datum.n.01 reading.n.03 statistic.n.01
+reading.n.03
+fact.n.01
+example.n.01
+evidence.n.01 proof.n.01 symptom.n.01
+proof.n.01
+stimulation.n.02
+idea.n.01 concept.n.01 misconception.n.01 plan.n.01 meaning.n.02 ideal.n.01
+concept.n.01 category.n.02 property.n.04 abstraction.n.01 quantity.n.03 part.n.09 whole.n.01 law.n.03 law.n.04 hypothesis.n.02
+category.n.02
+property.n.04
+quantity.n.03 numerical_quantity.n.01 variable.n.02
+numerical_quantity.n.01
+variable.n.02
+part.n.09
+whole.n.01
+law.n.03
+law.n.04
+hypothesis.n.02
+misconception.n.01
+plan.n.01 plan.n.01.other play.n.03 scheme.n.01
+scheme.n.01
+meaning.n.02
+ideal.n.01
+representation.n.01 percept.n.01 model.n.07 appearance.n.04
+percept.n.01
+model.n.07
+appearance.n.04
+belief.n.01 doctrine.n.01 expectation.n.01 opinion.n.01 spiritual_being.n.01
+doctrine.n.01
+expectation.n.01
+opinion.n.01
+goal.n.01
+education.n.02
+experience.n.02
+knowledge_domain.n.01 knowledge_domain.n.01.other science.n.01 engineering.n.02 humanistic_discipline.n.01
+science.n.01 natural_science.n.01 mathematics.n.01 social_science.n.01
+natural_science.n.01 life_science.n.01 physics.n.01
+mathematics.n.01
+statistic.n.01
+life_science.n.01 biology.n.01 medical_science.n.01
+biology.n.01
+medical_science.n.01
+physics.n.01
+engineering.n.02
+social_science.n.01
+humanistic_discipline.n.01 fine_arts.n.01 performing_arts.n.01 philosophy.n.02
+fine_arts.n.01
+philosophy.n.02
+attitude.n.01 position.n.12 inclination.n.01 orientation.n.02
+position.n.12
+inclination.n.01
+orientation.n.02
+communication.n.01 transmission.n.02 channel.n.05 discussion.n.01 examination.n.02
+transmission.n.02
+message.n.01
+medium.n.01 print_media.n.01 telecommunication.n.01
+sheet.n.02
+channel.n.05
+print_media.n.01
+piece.n.06
+telecommunication.n.01
+language.n.01 artificial_language.n.01 natural_language.n.01
+language_unit.n.01 word.n.01 syllable.n.01 morpheme.n.01 name.n.01 phone.n.02
+word.n.01 content_word.n.01 form.n.01
+content_word.n.01
+form.n.01
+syllable.n.01
+morpheme.n.01
+class.n.01 class.n.01.other tense.n.01 semantic_role.n.01
+tense.n.01
+semantic_role.n.01
+name.n.01
+written_communication.n.01 writing.n.04 writing.n.02
+writing.n.04 coding_system.n.01 notation.n.01
+coding_system.n.01
+writing.n.02 literary_composition.n.01 matter.n.06 section.n.01 editing.n.01 sacred_text.n.01 document.n.01 dramatic_composition.n.01
+literary_composition.n.01 fiction.n.01 poem.n.01
+matter.n.06
+fiction.n.01
+prose.n.01
+writing_style.n.01 prose.n.01 form.n.10
+poem.n.01
+music.n.01 section.n.01 tune.n.01 musical_composition.n.01 music_genre.n.01
+section.n.01
+book.n.01
+editing.n.01
+sacred_text.n.01
+statement.n.01 summary.n.01 pleading.n.01 description.n.01 declaration.n.01 explanation.n.01 announcement.n.02 proposition.n.01 falsehood.n.01 comment.n.02 remark.n.01 agreement.n.01
+summary.n.01
+document.n.01 commercial_document.n.01 legal_document.n.01
+commercial_document.n.01
+legal_document.n.01 negotiable_instrument.n.01 act.n.01 writ.n.01 written_agreement.n.01
+negotiable_instrument.n.01
+database.n.01
+record.n.01
+message.n.02 request.n.01 subject.n.01 meaning.n.01 drivel.n.01 acknowledgment.n.03 information.n.01 guidance.n.01 commitment.n.04 approval.n.04 disapproval.n.02 disrespect.n.01 statement.n.01 wit.n.01 direction.n.06 proposal.n.01 offer.n.02 promotion.n.01
+request.n.01
+written_agreement.n.01
+act.n.01
+writ.n.01
+pleading.n.01
+periodical.n.01
+subject.n.01
+meaning.n.01
+drivel.n.01
+social_event.n.01 show.n.03 affair.n.03 contest.n.01
+show.n.03 broadcast.n.02 performance.n.01
+broadcast.n.02
+acknowledgment.n.03
+information.n.01 fact.n.02 database.n.01 news.n.02 evidence.n.03
+fact.n.02
+indication.n.01 evidence.n.02 mark.n.04
+evidence.n.02 record.n.01 identification.n.02
+guidance.n.01
+direction.n.06
+proposal.n.01 advice.n.01 suggestion.n.02
+advice.n.01
+news.n.02
+commitment.n.04
+approval.n.04 permission.n.01 encouragement.n.01
+permission.n.01
+encouragement.n.01
+symbol.n.01 award.n.02 written_symbol.n.01 marker.n.02
+award.n.02 award.n.02.other bachelor's_degree.n.01 master's_degree.n.01 doctor's_degree.n.01
+bachelor's_degree.n.01
+master's_degree.n.01
+doctor's_degree.n.01
+disapproval.n.02
+disrespect.n.01
+description.n.01
+declaration.n.01
+evidence.n.03
+explanation.n.01 justification.n.02 interpretation.n.03
+justification.n.02
+announcement.n.02
+proposition.n.01
+falsehood.n.01
+comment.n.02
+remark.n.01
+agreement.n.01 written_agreement.n.01
+wit.n.01
+signal.n.01 symbol.n.01 visual_signal.n.01 indicator.n.02
+sign.n.02
+mark.n.04
+notation.n.01 mathematical_notation.n.01 musical_notation.n.01
+mathematical_notation.n.01
+musical_notation.n.01 interval.n.04 note.n.03
+written_symbol.n.01 mark.n.10 character.n.08
+mark.n.10
+character.n.08 type.n.04 letter.n.02
+type.n.04
+letter.n.02
+interval.n.04
+note.n.03
+visual_communication.n.01 gesture.n.02 demonstration.n.05 artwork.n.01
+visual_signal.n.01
+gesture.n.02
+demonstration.n.05
+identification.n.02
+display.n.05
+performance.n.01
+artificial_language.n.01
+natural_language.n.01 amerind.n.01 sino-tibetan.n.01 austronesian.n.02 indo-european.n.02 ural-altaic.n.01 afroasiatic.n.01
+amerind.n.01
+sino-tibetan.n.01
+austronesian.n.02
+indo-european.n.02 balto-slavic.n.01 germanic.n.01 italic.n.02 indo-iranian.n.01
+balto-slavic.n.01
+germanic.n.01
+ural-altaic.n.01
+italic.n.02
+indo-iranian.n.01
+afroasiatic.n.01
+artwork.n.01
+dramatic_composition.n.01
+auditory_communication.n.01 music.n.01 speech.n.02 utterance.n.01
+tune.n.01 theme.n.03 part.n.11
+theme.n.03
+part.n.11
+musical_composition.n.01 passage.n.06 song.n.01
+passage.n.06
+song.n.01
+music_genre.n.01
+expressive_style.n.01 device.n.02 manner_of_speaking.n.01 music_genre.n.01 writing_style.n.01
+device.n.02
+manner_of_speaking.n.01
+form.n.10
+speech.n.02 conversation.n.01 discussion.n.02 saying.n.01
+utterance.n.01
+phone.n.02
+conversation.n.01
+discussion.n.01
+discussion.n.02
+saying.n.01
+speech_act.n.01 command.n.01 agreement.n.06 disagreement.n.03 request.n.02 reply.n.02 denial.n.01 objection.n.02 informing.n.02 disclosure.n.01 address.n.03
+suggestion.n.02
+offer.n.02
+command.n.01
+interpretation.n.03
+agreement.n.06
+disagreement.n.03
+request.n.02 entreaty.n.01 questioning.n.01
+entreaty.n.01
+questioning.n.01
+examination.n.02
+reply.n.02
+denial.n.01
+objection.n.02
+informing.n.02
+disclosure.n.01
+address.n.03
+promotion.n.01
+indicator.n.02
+system_of_measurement.n.01 system_of_measurement.n.01.other standard.n.01.other money.n.01 currency.n.01
+marker.n.02
+happening.n.01 experience.n.03 trouble.n.03 beginning.n.01 ending.n.04 periodic_event.n.01 change.n.01 discharge.n.01 movement.n.03 failure.n.02 success.n.01 contact.n.04 interruption.n.02 sound.n.04 union.n.09 juncture.n.01
+experience.n.03
+trouble.n.03 misfortune.n.01 affliction.n.03
+beginning.n.01 origin.n.03 start.n.01
+ending.n.04
+periodic_event.n.01
+change.n.01 variation.n.01 death.n.01 decrease.n.01 increase.n.02 transformation.n.01 damage.n.01
+misfortune.n.01
+affliction.n.03
+discharge.n.01
+movement.n.03 change_of_location.n.01 wave.n.03 turning.n.04 wave.n.01
+change_of_location.n.01 descent.n.01 flow.n.01 rise.n.04
+failure.n.02
+success.n.01
+origin.n.03
+start.n.01
+variation.n.01
+contact.n.04
+wave.n.03
+turning.n.04
+wave.n.01
+death.n.01
+decrease.n.01
+increase.n.02
+transformation.n.01 improvement.n.01 weakening.n.01
+improvement.n.01
+descent.n.01
+interruption.n.02
+sound.n.04 cry.n.05 noise.n.01
+union.n.09
+cry.n.05
+noise.n.01
+flow.n.01
+juncture.n.01
+damage.n.01
+weakening.n.01
+rise.n.04
+affair.n.03 party.n.04 ceremony.n.01
+party.n.04
+ceremony.n.01
+contest.n.01
+emotion.n.01 anger.n.01 fear.n.01 anxiety.n.02 joy.n.01 love.n.01 hate.n.01 emotional_state.n.01
+desire.n.01
+pleasure.n.01
+pain.n.02
+liking.n.01
+dislike.n.02
+agitation.n.03
+anger.n.01
+fear.n.01
+anxiety.n.02
+joy.n.01
+sadness.n.01
+love.n.01
+hate.n.01
+sympathy.n.02
+solid.n.01 food.n.02 crystal.n.01
+food.n.02 baked_goods.n.01 meat.n.01 produce.n.01 seafood.n.01
+nutriment.n.01 course.n.07 dainty.n.01 dish.n.02 meal.n.01
+course.n.07
+dainty.n.01
+dish.n.02
+fare.n.04
+foodstuff.n.02 starches.n.01 grain.n.02 ingredient.n.03 dairy_product.n.01 concoction.n.01
+starches.n.01
+meal.n.01
+small_indefinite_quantity.n.01 helping.n.01 taste.n.05
+helping.n.01
+taste.n.05
+baked_goods.n.01
+meat.n.01 bird.n.02 cut.n.06
+bird.n.02
+cut.n.06
+produce.n.01 edible_fruit.n.01 vegetable.n.01
+edible_fruit.n.01
+vegetable.n.01 solanaceous_vegetable.n.01 cruciferous_vegetable.n.01
+solanaceous_vegetable.n.01
+cruciferous_vegetable.n.01
+seafood.n.01
+feed.n.01
+grain.n.02
+ingredient.n.03 ingredient.n.03.other condiment.n.01 herb.n.02
+condiment.n.01
+herb.n.02
+dairy_product.n.01
+beverage.n.01 alcohol.n.01 soft_drink.n.01
+concoction.n.01
+alcohol.n.01 brew.n.01 wine.n.01 liquor.n.01 mixed_drink.n.01
+brew.n.01
+wine.n.01
+liquor.n.01
+mixed_drink.n.01
+soft_drink.n.01
+arrangement.n.02 array.n.01 formation.n.01 ordering.n.01
+array.n.01
+biological_group.n.01 taxonomic_group.n.01 animal_group.n.01
+community.n.06
+people.n.01 class.n.03 nation.n.02
+social_group.n.01 body.n.02 kin.n.02 gathering.n.01 organization.n.01 set.n.05 political_system.n.01 movement.n.04
+agglomeration.n.01
+body.n.02 administration.n.02 occupational_group.n.01
+kin.n.02
+class.n.03
+gathering.n.01 assembly.n.04 crowd.n.01 community.n.01 social_gathering.n.01 meeting.n.01
+taxonomic_group.n.01
+animal_group.n.01
+set.n.01
+set.n.02
+organization.n.01 nongovernmental_organization.n.01 association.n.01 polity.n.02 institution.n.01 enterprise.n.02 unit.n.03 force.n.04 musical_organization.n.01 alliance.n.03
+nongovernmental_organization.n.01
+association.n.01
+polity.n.02
+institution.n.01 financial_institution.n.01 company.n.01 religion.n.02 educational_institution.n.01
+financial_institution.n.01
+enterprise.n.02 business.n.01 commercial_enterprise.n.01
+business.n.01 carrier.n.05 firm.n.01
+company.n.01
+firm.n.01
+commercial_enterprise.n.01
+unit.n.03 administrative_unit.n.01 military_unit.n.01 team.n.01 political_unit.n.01
+administrative_unit.n.01 division.n.04 agency.n.01 intelligence.n.02
+religion.n.02
+occupational_group.n.01
+division.n.04
+assembly.n.04
+administration.n.02
+nation.n.02
+multitude.n.03
+crowd.n.01
+military_unit.n.01
+force.n.04
+team.n.01
+community.n.01
+set.n.05
+musical_organization.n.01
+social_gathering.n.01 party.n.02 meeting.n.02
+party.n.02
+educational_institution.n.01
+alliance.n.03
+meeting.n.01
+meeting.n.02
+agency.n.01 independent_agency.n.01 law_enforcement_agency.n.01
+independent_agency.n.01
+intelligence.n.02
+law_enforcement_agency.n.01
+political_unit.n.01
+political_system.n.01
+formation.n.01
+system.n.02
+vegetation.n.01
+ordering.n.01
+movement.n.04
+district.n.01 administrative_district.n.01 city_district.n.01
+administrative_district.n.01
+region.n.03 area.n.01 district.n.01 geographical_area.n.01
+area.n.01 scene.n.01 section.n.03 space.n.03
+surface.n.02
+extremity.n.04 boundary.n.01 end.n.01 limit.n.03
+boundary.n.01 limit.n.04 surface.n.02
+city_district.n.01
+end.n.01
+geographical_area.n.01 environment.n.02 tract.n.01
+environment.n.02
+region.n.01 extremity.n.04 layer.n.02
+tract.n.01 field.n.01 site.n.01
+field.n.01
+point.n.02 geographic_point.n.01 position.n.01 topographic_point.n.01
+layer.n.02
+limit.n.03
+line.n.11 path.n.03 path.n.04
+path.n.03
+position.n.01
+section.n.03
+scene.n.01
+site.n.01
+space.n.03
+body.n.04
+body_of_water.n.01
+celestial_body.n.01
+opening.n.01
+fragment.n.01
+geological_formation.n.01 natural_depression.n.01 natural_elevation.n.01 slope.n.01
+natural_elevation.n.01 highland.n.01 ridge.n.01
+highland.n.01
+land.n.04
+land.n.02
+natural_depression.n.01
+path.n.04
+ridge.n.01
+slope.n.01
+unit.n.05 unit.n.05.other protein.n.01 lipid.n.01
+imaginary_being.n.01
+spiritual_being.n.01 deity.n.01 spirit.n.04
+leader.n.01 spiritual_leader.n.01 aristocrat.n.01 head.n.04 lawgiver.n.01 politician.n.02 politician.n.01 superior.n.01
+spiritual_leader.n.01 spiritual_leader.n.01.other
+deity.n.01
+spirit.n.04
+adult.n.01 conservative.n.01 important_person.n.01 man.n.01 oldster.n.01 professional.n.01
+anomaly.n.02
+applicant.n.01
+good_person.n.01
+capitalist.n.02 capitalist.n.02.other businessman.n.01 merchant.n.01 supplier.n.01
+commoner.n.01
+communicator.n.01 articulator.n.01 negotiator.n.01 writer.n.01
+user.n.01
+contestant.n.01 athlete.n.01 player.n.01 rival.n.01
+creator.n.02 artist.n.01 maker.n.01
+preserver.n.03 preserver.n.03.other guard.n.01 lawman.n.01
+disputant.n.01
+entertainer.n.01 entertainer.n.01.other actor.n.01 musician.n.01
+expert.n.01 authority.n.03 investigator.n.02
+female.n.02
+inhabitant.n.01 asian.n.01 european.n.01 american.n.03 american.n.01 resident.n.01
+intellectual.n.01
+juvenile.n.01
+lover.n.01
+male.n.02 man.n.01
+negotiator.n.01 mediator.n.01 representative.n.01
+mediator.n.01
+money_handler.n.01
+national.n.01
+nonworker.n.01
+peer.n.01
+perceiver.n.01
+acquirer.n.01
+religious_person.n.01 christian.n.01 religious.n.01
+traveler.n.01
+unfortunate.n.01 sick_person.n.01 victim.n.01
+unwelcome_person.n.01
+unskilled_person.n.01
+worker.n.01 assistant.n.01 employee.n.01 skilled_worker.n.01
+bad_person.n.01 wrongdoer.n.01 libertine.n.01
+wrongdoer.n.01 attacker.n.01 deceiver.n.01 principal.n.05
+african.n.01
+person_of_color.n.01 asian.n.01 amerindian.n.01
+asian.n.01
+amerindian.n.01 algonquian.n.01 plains_indian.n.01
+algonquian.n.01
+plains_indian.n.01
+christian.n.01
+european.n.01
+american.n.03
+american.n.01
+actor.n.01
+adjudicator.n.01
+head.n.04
+advocate.n.01
+representative.n.01 agent.n.02 head_of_state.n.01
+agent.n.02
+relative.n.01 ancestor.n.01 offspring.n.01 spouse.n.01
+ancestor.n.01 forebear.n.01 progenitor.n.01
+aristocrat.n.01
+articulator.n.01
+artist.n.01
+assistant.n.01
+athlete.n.01 ballplayer.n.01 football_player.n.01
+attacker.n.01
+authority.n.03
+ballplayer.n.01
+player.n.01 ballplayer.n.01 football_player.n.01
+businessman.n.01
+offspring.n.01
+combatant.n.01
+military_officer.n.01
+conservative.n.01
+principal.n.05 principal.n.05.other
+deceiver.n.01
+domestic_partner.n.01 spouse.n.01
+professional.n.01 educator.n.01 health_professional.n.01 lawyer.n.01
+educator.n.01
+employee.n.01
+serviceman.n.01 enlisted_person.n.01 military_officer.n.01
+enlisted_person.n.01
+enrollee.n.01
+follower.n.01
+football_player.n.01
+forebear.n.01
+friend.n.01
+gambler.n.01
+progenitor.n.01
+guard.n.01
+head_of_state.n.01
+health_professional.n.01
+important_person.n.01
+investigator.n.02
+killer.n.01
+lawgiver.n.01
+lawman.n.01
+lawyer.n.01
+politician.n.01
+libertine.n.01
+party.n.05
+maker.n.01
+man.n.01
+sailor.n.01
+merchant.n.01
+musician.n.01
+occultist.n.01
+skilled_worker.n.01 official.n.01 sailor.n.01 serviceman.n.01
+official.n.01
+oldster.n.01
+owner.n.02
+politician.n.02
+holy_order.n.01
+radical.n.03
+religious.n.01
+resident.n.01
+rival.n.01
+ruler.n.01
+scientist.n.01
+sick_person.n.01
+simpleton.n.01
+spouse.n.01
+superior.n.01
+supplier.n.01
+victim.n.01
+victim.n.02
+writer.n.01
+natural_phenomenon.n.01 chemical_phenomenon.n.01 geological_phenomenon.n.01 organic_phenomenon.n.01 physical_phenomenon.n.01
+chemical_phenomenon.n.01
+consequence.n.01
+geological_phenomenon.n.01
+organic_phenomenon.n.01
+physical_phenomenon.n.01 atmospheric_phenomenon.n.01 cloud.n.01 electrical_phenomenon.n.01 energy.n.01 force.n.02 mechanical_phenomenon.n.01 optical_phenomenon.n.01
+atmospheric_phenomenon.n.01 atmospheric_phenomenon.n.01.other precipitation.n.03 wind.n.01
+cloud.n.01
+electrical_phenomenon.n.01
+energy.n.01
+force.n.02
+mechanical_phenomenon.n.01
+optical_phenomenon.n.01
+precipitation.n.03
+wind.n.01
+spermatophyte.n.01
+plant_organ.n.01 reproductive_structure.n.01 stalk.n.02
+reproductive_structure.n.01 reproductive_structure.n.01.other edible_fruit.n.01 seed.n.01 drupe.n.01 pome.n.01
+herb.n.01 crucifer.n.01 gramineous_plant.n.01
+crucifer.n.01
+gramineous_plant.n.01
+plant_part.n.01 plant_organ.n.01 plant_tissue.n.01
+plant_tissue.n.01
+vine.n.01
+woody_plant.n.01 tree.n.01 shrub.n.01
+tree.n.01
+shrub.n.01
+stalk.n.02
+bulbous_plant.n.01
+seed.n.01
+drupe.n.01
+pome.n.01
+property.n.01
+transferred_property.n.01 acquisition.n.02 outgo.n.01 loss.n.01
+acquisition.n.02
+sum.n.01
+outgo.n.01 outgo.n.01.other payment.n.01 charge.n.03
+payment.n.01 regular_payment.n.01 recompense.n.01
+regular_payment.n.01
+recompense.n.01
+assets.n.01 share.n.01 sum.n.01 resource.n.01 investment.n.02 material_resource.n.01 funds.n.01
+share.n.01
+charge.n.03
+loss.n.01
+resource.n.01
+investment.n.02
+material_resource.n.01
+funds.n.01
+money.n.01
+currency.n.01 paper_money.n.01 coinage.n.01
+paper_money.n.01
+coinage.n.01
+liabilities.n.01
+document.n.03
+organic_process.n.01 bodily_process.n.01 growth.n.01 parturition.n.01
+natural_process.n.01 chemical_process.n.01 decay.n.01 flow.n.04 geological_process.n.01 phase_change.n.01 temperature_change.n.01
+chemical_process.n.01
+processing.n.01
+decay.n.01
+decrease.n.02
+psychoanalytic_process.n.01
+discharge.n.04
+economic_process.n.01
+flow.n.04
+geological_process.n.01
+growth.n.01
+human_process.n.01 linguistic_process.n.01 psychoanalytic_process.n.01
+increase.n.03
+linguistic_process.n.01
+parturition.n.01
+phase_change.n.01
+temperature_change.n.01
+definite_quantity.n.01 number.n.02 unit_of_measurement.n.01
+indefinite_quantity.n.01 containerful.n.01 large_indefinite_quantity.n.01 small_indefinite_quantity.n.01
+relative_quantity.n.01
+number.n.02 constant.n.02 score.n.03 integer.n.01 complex_number.n.01
+unit_of_measurement.n.01 angular_unit.n.01 area_unit.n.01 volume_unit.n.01 computer_memory_unit.n.01 electromagnetic_unit.n.01 linear_unit.n.01 metric_unit.n.01 monetary_unit.n.01 weight_unit.n.02 mass_unit.n.01
+constant.n.02
+score.n.03
+angular_unit.n.01
+area_unit.n.01
+volume_unit.n.01 liquid_unit.n.01 dry_unit.n.01 metric_capacity_unit.n.01
+computer_memory_unit.n.01
+electromagnetic_unit.n.01 light_unit.n.01 power_unit.n.01 radioactivity_unit.n.01
+linear_unit.n.01 metric_linear_unit.n.01
+metric_unit.n.01 metric_capacity_unit.n.01 metric_linear_unit.n.01 metric_weight_unit.n.01
+monetary_unit.n.01
+weight_unit.n.02
+mass_unit.n.01 avoirdupois_unit.n.01 metric_weight_unit.n.01
+liquid_unit.n.01
+dry_unit.n.01
+metric_capacity_unit.n.01
+light_unit.n.01
+power_unit.n.01
+radioactivity_unit.n.01
+metric_linear_unit.n.01
+avoirdupois_unit.n.01
+metric_weight_unit.n.01
+integer.n.01 digit.n.01 large_integer.n.01
+complex_number.n.01
+digit.n.01
+large_integer.n.01
+containerful.n.01
+large_indefinite_quantity.n.01
+room.n.02
+mathematical_relation.n.01
+connection.n.01
+linguistic_relation.n.01
+magnitude_relation.n.01 ratio.n.01 rate.n.01
+ratio.n.01
+direction.n.02
+opposition.n.02
+solid.n.03 convex_shape.n.01 concave_shape.n.01
+figure.n.06 plane_figure.n.01 solid_figure.n.01 subfigure.n.01
+plane_figure.n.01
+subfigure.n.01
+line.n.04 curve.n.01 straight_line.n.01 boundary.n.02
+convex_shape.n.01
+angular_shape.n.01
+concave_shape.n.01
+round_shape.n.01
+amorphous_shape.n.01 amorphous_shape.n.01.other opening.n.01 angle.n.01
+curve.n.01
+straight_line.n.01
+angle.n.01
+boundary.n.02
+condition.n.03 condition.n.03.other good_fortune.n.01 misfortune.n.02
+condition.n.01 physical_condition.n.01 psychological_state.n.01 difficulty.n.03 dominance.n.02 need.n.01 financial_condition.n.01 sanitary_condition.n.01 atmosphere.n.01 susceptibility.n.01 safety.n.01 unsoundness.n.01
+situation.n.01 acceptance.n.03 environment.n.01
+relationship.n.02
+relationship.n.03
+acceptance.n.03
+environment.n.01
+degree.n.02
+status.n.01 standing.n.01 high_status.n.01 holy_order.n.01 rank.n.02
+standing.n.01 honor.n.02 dishonor.n.01
+high_status.n.01
+being.n.01
+order.n.03
+disorder.n.03 disturbance.n.03 turbulence.n.03
+disturbance.n.03
+turbulence.n.03
+illumination.n.02
+emotional_state.n.01
+freedom.n.01
+action.n.02
+inaction.n.01
+temporary_state.n.01
+physical_condition.n.01 arousal.n.02 good_health.n.01 pathological_state.n.01 disorder.n.01 abnormality.n.01
+arousal.n.02
+good_health.n.01
+pathological_state.n.01 illness.n.01 infection.n.01 pathology.n.02 injury.n.01
+disorder.n.01
+illness.n.01 illness.n.01.other disease.n.01.other contagious_disease.n.01 infectious_disease.n.01
+contagious_disease.n.01
+infectious_disease.n.01
+infection.n.01
+pathology.n.02
+injury.n.01
+symptom.n.01
+mental_illness.n.01
+agitation.n.01
+difficulty.n.03
+separation.n.01
+union.n.04
+rank.n.02
+honor.n.02
+dishonor.n.01
+dominance.n.02
+need.n.01
+perfection.n.01
+imperfection.n.01
+good_fortune.n.01
+misfortune.n.02
+financial_condition.n.01
+sanitary_condition.n.01
+abnormality.n.01
+atmosphere.n.01
+susceptibility.n.01
+safety.n.01
+danger.n.03
+unsoundness.n.01
+material.n.01 mineral.n.01 rock.n.02 adhesive_material.n.01 animal_material.n.01 chemical.n.01 conductor.n.02 earth.n.02 discharge.n.03 waste.n.01 fiber.n.01 paper.n.01 coloring_material.n.01 plant_material.n.01
+mixture.n.01 alloy.n.01 solution.n.01
+alloy.n.01
+solution.n.01
+chemical_element.n.01 noble_gas.n.01 metallic_element.n.01 carbon.n.01
+noble_gas.n.01
+metallic_element.n.01
+carbon.n.01
+mineral.n.01
+fuel.n.01
+rock.n.02
+crystal.n.01
+animal_material.n.01
+adhesive_material.n.01
+activator.n.01
+inhibitor.n.01
+compound.n.02 organic_compound.n.01 formulation.n.01 polymer.n.01 salt.n.01
+organic_compound.n.01 ester.n.01 resin.n.01
+protein.n.01
+building_material.n.01
+conductor.n.02
+earth.n.02
+ester.n.01
+discharge.n.03
+waste.n.01 body_waste.n.01 rubbish.n.01
+body_waste.n.01
+rubbish.n.01
+fiber.n.01
+formulation.n.01
+fluid.n.02 fluid.n.02.other noble_gas.n.01
+resin.n.01
+halogen.n.01
+lipid.n.01
+fluid.n.01 fluid.n.01.other beverage.n.01
+plant_material.n.01 plant_product.n.01 wood.n.01
+polymer.n.01
+salt.n.01
+wood.n.01
+time_period.n.01 work_time.n.01 time_off.n.01 time.n.03 time_of_life.n.01 calendar_day.n.01 calendar_month.n.01 term.n.02 season.n.02
+work_time.n.01
+time_off.n.01
+time.n.03
+time_of_life.n.01
+time_unit.n.01
+calendar_day.n.01 day.n.03 day_of_the_week.n.01
+day.n.03
+day_of_the_week.n.01
+point.n.06 moment.n.01 end.n.02
+calendar_month.n.01
+term.n.02
+season.n.02
+moment.n.01
+end.n.02
+time_interval.n.01
+rate.n.01
+fish.n.01.other
+disease.n.01.other
+presentation.n.02.other
+self-propelled_vehicle.n.01.other
+principal.n.05.other
+illness.n.01.other
+show.n.01.other
+maneuver.n.03.other
+spiritual_leader.n.01.other
+entertainment.n.01.other
+support.n.10.other
+work.n.02.other
+reproductive_structure.n.01.other
+preserver.n.03.other
+entertainer.n.01.other
+capitalist.n.02.other
+transaction.n.01.other
+plan.n.01.other
+atmospheric_phenomenon.n.01.other
+ingredient.n.03.other
+furnishing.n.02.other
+plant.n.02.other
+award.n.02.other
+fluid.n.01.other
+body_substance.n.01.other
+outgo.n.01.other
+knowledge_domain.n.01.other
+creativity.n.01.other
+standard.n.01.other
+class.n.01.other
+amorphous_shape.n.01.other
+condition.n.03.other
+agent.n.03.other
+system_of_measurement.n.01.other
+fluid.n.02.other
+unit.n.05.other

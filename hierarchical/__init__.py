@@ -5,3 +5,4 @@ package initialization to support easy imports
 
 from hierarchical.category import *
 from hierarchical.plotting import *
+from hierarchical.from_models import *

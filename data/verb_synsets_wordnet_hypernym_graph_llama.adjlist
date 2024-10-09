@@ -1,0 +1,709 @@
+break.v.02
+decay.v.02
+switch.v.03
+impregnate.v.02
+bespeak.v.01
+keep.v.01
+polish.v.01
+darken.v.03
+shape.v.02
+advertise.v.02
+separate.v.02 cut.v.01 tear.v.01
+learn.v.01
+promise.v.01 pledge.v.01 contract.v.01
+affect.v.05
+change_magnitude.v.01 decrease.v.01 increase.v.01
+meet.v.05
+rede.v.01
+gesticulate.v.01
+strike.v.01
+wedge.v.02
+engage.v.10
+form.v.07
+regulate.v.02
+lie.v.02
+cause.v.01 determine.v.02 effect.v.01 initiate.v.02
+decelerate.v.01
+connect.v.01 join.v.04 attach.v.01 join.v.02
+move.v.15
+reason.v.03 categorize.v.01 speculate.v.02 calculate.v.01
+think.v.02
+hit.v.03
+pain.v.02
+push.v.01
+separate.v.09
+predominate.v.01
+propose.v.01
+meet.v.04
+create_by_mental_act.v.01 design.v.04 imagine.v.01 plan.v.03
+send.v.01
+tear.v.01
+shout.v.02
+choose.v.01
+express_emotion.v.01
+pass.v.05
+overstate.v.01
+lay.v.02
+generate.v.01
+repair.v.01
+eat.v.01
+provide.v.02 feed.v.02 meet.v.04
+fold.v.01
+count.v.01
+tighten.v.02
+change_surface.v.01 smooth.v.01 impress.v.04 fold.v.01
+hire.v.01
+check.v.01
+strip.v.03
+prevent.v.02 defend.v.02 impede.v.01
+determine.v.02
+excel.v.01
+smooth.v.01
+get_down.v.07
+reduce.v.01
+approve.v.01
+cancel.v.03
+overwhelm.v.01
+move.v.07
+disapprove.v.02
+arouse.v.01 overwhelm.v.01 interest.v.01 stimulate.v.03 hurt.v.05 upset.v.02
+reach.v.01
+appear.v.02
+advance.v.01
+receive.v.02
+hold.v.02
+frighten.v.01
+change.v.03 move.v.07 adapt.v.01
+cover.v.01 coat.v.01 envelop.v.01
+grip.v.01
+give.v.01
+affect.v.01 process.v.01 subject.v.01 influence.v.01
+catch.v.04
+capture.v.06
+conclude.v.03
+create_from_raw_material.v.01 cook.v.02 shape.v.02 make.v.15
+turn.v.01
+empty.v.01
+transport.v.02
+designate.v.01
+claim.v.01
+respect.v.01
+decide.v.01 regulate.v.02 choose.v.01 rule.v.02
+categorize.v.01
+exercise.v.04
+act.v.02
+pay.v.01 pay.v.01.other consume.v.05 consume.v.03 invest.v.01
+deceive.v.01
+suffer.v.06
+receive.v.05
+induce.v.02 compel.v.01 persuade.v.02
+transmit.v.04
+pronounce.v.01
+disintegrate.v.01
+measure.v.04 measure.v.04.other applaud.v.02 advertise.v.02
+fight.v.02
+comfort.v.01
+perceive.v.01 spy.v.03 hurt.v.06 listen.v.01
+work.v.01
+unwrap.v.02
+follow.v.01
+twist.v.04
+expose.v.03
+satisfy.v.02
+effect.v.01
+verify.v.01
+ridicule.v.01
+perform.v.03
+fling.v.01
+lend.v.01
+leave.v.08
+close.v.01
+testify.v.02
+digest.v.03
+collapse.v.01
+declare.v.01 affirm.v.02 decree.v.01 promise.v.01 propose.v.01
+begin.v.02
+move.v.03 turn.v.01 run.v.06 turn.v.09 jump.v.01 separate.v.09 shake.v.01 dance.v.02 exit.v.01 move_back_and_forth.v.01
+manage.v.02 organize.v.02 direct.v.04
+avoid.v.01
+become.v.03
+reason.v.01
+mean.v.03
+surround.v.01
+organize.v.05
+attack.v.01
+cause_to_be_perceived.v.01 sound.v.02 ache.v.03 radiate.v.05
+emit.v.02
+separate.v.07
+fail.v.04
+telecommunicate.v.01
+modify.v.01
+coat.v.01
+operate_on.v.01
+give_voice.v.01
+mock.v.01 tease.v.02 ridicule.v.01
+give.v.08
+exploit.v.02
+end.v.01
+impress.v.04
+expel.v.01
+have.v.01 have.v.01.other store.v.01 deny.v.04 save.v.02 store.v.02
+call.v.05
+represent.v.05
+border.v.05
+plan.v.02
+develop.v.10
+propel.v.01 hit.v.01 throw.v.01
+meet.v.02
+decrease.v.02 abridge.v.01 limit.v.02 reduce.v.01
+leave.v.01
+travel.v.03
+denounce.v.04
+touch.v.01 hit.v.02 handle.v.04 stroke.v.01 strike.v.01 hit.v.03 press.v.01
+hurt.v.02
+clarify.v.01
+remove.v.02
+undergo.v.01 experience.v.03 experience.v.01
+perform.v.02
+swim.v.01
+write.v.02
+note.v.01 note.v.01.other comment.v.01.other attack.v.02 disparage.v.01
+exchange.v.01
+disagree.v.01
+accept.v.02
+cultivate.v.01
+strengthen.v.01
+dig.v.01
+discharge.v.02
+join.v.04 copulate.v.01 attach.v.03
+color.v.01
+hold.v.14
+exhaust.v.05 emit.v.01 excrete.v.01
+deceive.v.02
+transport.v.04
+copulate.v.01
+prove.v.02
+develop.v.12
+circulate.v.02
+decorate.v.01
+press.v.01
+free.v.06
+consort.v.01
+disown.v.02
+dissolve.v.02
+concede.v.02
+solve.v.01
+force.v.08
+beat.v.02
+contend.v.06 fight.v.02 attack.v.01
+cook.v.02
+position.v.01
+re-create.v.01 regenerate.v.01 represent.v.09 act.v.03 perform.v.03 play.v.06 stage.v.01
+die.v.01
+sensitize.v.02
+touch.v.05 cover.v.02 surround.v.01 border.v.05
+change.v.01 awaken.v.01 affect.v.02 weaken.v.01 better.v.02 affect.v.01 clean.v.01 worsen.v.02 indispose.v.03 fill.v.01 dirty.v.01 end.v.02 convert.v.02 make.v.02 shape.v.03 decrease.v.02 increase.v.02 strengthen.v.01 adjust.v.01 empty.v.01 damage.v.01 wet.v.01 develop.v.12 color.v.01 darken.v.03 transform.v.02 mix.v.05 fix.v.12 mark.v.05 disable.v.01 enable.v.01 substitute.v.01 shorten.v.03 decorate.v.01 change_intensity.v.01 lend.v.01
+store.v.02
+dress.v.16
+exploit.v.01
+take.v.21 assume.v.06 steal.v.01
+flex.v.05
+accompany.v.02
+race.v.02
+investigate.v.01
+come.v.01
+begin.v.03
+cut.v.01
+worry.v.01
+change.v.02 undergo.v.01 change_state.v.01 dress.v.01 tighten.v.02 change_integrity.v.01 change_by_reversal.v.01 change_magnitude.v.01 grow.v.08 discolor.v.03 modify.v.01 change_shape.v.01 form.v.07 adjust.v.03 change_surface.v.01 decay.v.02 transform.v.03 collapse.v.01 separate.v.12 fail.v.04 reorient.v.03 receive.v.02 leave.v.08 change_posture.v.01
+wait.v.02
+misinform.v.01 overstate.v.01 deceive.v.02
+travel.v.04
+ache.v.03
+recover.v.01
+dominate.v.03
+equal.v.01 equal.v.01.other meet.v.05 resemble.v.01
+intensify.v.02
+confine.v.05
+raise.v.07
+hurt.v.06
+compel.v.01 coerce.v.01 enforce.v.01
+reject.v.01 dismiss.v.01 disown.v.02
+imagine.v.01
+stroke.v.01
+worsen.v.01
+use.v.01 exploit.v.02 give.v.18 exploit.v.01
+fix.v.12
+get.v.01 obtain.v.01 accept.v.02 capture.v.06 lease.v.04 receive.v.01 gain.v.08 recover.v.01 profit.v.01 find.v.03
+be.v.01 suffer.v.06 stay.v.01 continue.v.10 confuse.v.02 total.v.01 look.v.02 measure.v.03
+make.v.02
+grow.v.02 develop.v.10 expand.v.02
+attack.v.03
+feed.v.06
+produce.v.03
+examine.v.02 search.v.02 search.v.04
+tease.v.02
+relate.v.05
+determine.v.03
+travel.v.01 return.v.01 pass.v.01 come.v.01 travel.v.05 pursue.v.02 descend.v.01 rush.v.01 travel.v.04 walk.v.01 glide.v.01 roll.v.12 advance.v.01 rise.v.01 travel_rapidly.v.01 accompany.v.02 fly.v.01 ride.v.01 swim.v.01 ascend.v.01 proceed.v.02 follow.v.01
+attract.v.02
+move.v.02 raise.v.02 separate.v.02 put.v.01 agitate.v.06 engage.v.10 transfer.v.02 transmit.v.04 send.v.01 propel.v.01 station.v.01 push.v.01 transport.v.02 pull.v.01 wedge.v.02 expel.v.01 wind.v.03 transport.v.01 transfer.v.04 transport.v.04
+prosecute.v.03
+repeat.v.01
+go.v.02
+delete.v.01
+include.v.01
+associate.v.01
+complain.v.01
+use.v.03
+admit.v.01
+pierce.v.05
+discontinue.v.01
+station.v.01
+forget.v.01 forget.v.01.other restrain.v.01.other suppress.v.01 restrict.v.02 restrict.v.03
+transfer.v.02 transfer.v.02.other convey.v.03.other communicate.v.01.other demand.v.01 order.v.02 ask.v.02 appeal.v.02 solicit.v.01
+weaken.v.02
+lie.v.01
+decline.v.04
+walk.v.01
+refer.v.02
+ride.v.01
+think.v.03 evaluate.v.02 reason.v.03 reason.v.01 associate.v.01 chew_over.v.01 plan.v.02 think_about.v.01 concentrate.v.02
+invite.v.04
+defend.v.02
+punish.v.01
+undo.v.01
+take.v.04 take.v.04.other catch.v.04 grip.v.01
+determine.v.08
+perform.v.01
+dissemble.v.03
+answer.v.01
+lease.v.04
+direct.v.04
+feel.v.01 rejoice.v.01 suffer.v.03
+cleanse.v.01
+accommodate.v.04
+explain.v.01 clarify.v.01 rede.v.01
+give.v.03 supply.v.01 pay.v.01 distribute.v.01 provide.v.02
+act.v.03
+refuse.v.01
+total.v.01
+change_posture.v.01
+wax.v.02
+organize.v.02
+insert.v.02
+picture.v.02
+register.v.01
+store.v.01
+chew_over.v.01
+make.v.03 reproduce.v.02 produce.v.01 raise.v.07 re-create.v.01 create_from_raw_material.v.01 arouse.v.01 construct.v.01 create_by_mental_act.v.01 generate.v.01 assemble.v.01 cause.v.01 create.v.05 compose.v.02 create_verbally.v.01 produce.v.03
+start.v.10
+learn.v.04
+agree.v.01 arrange.v.02 conclude.v.03 concede.v.02
+upset.v.02 embarrass.v.01 pain.v.02
+assemble.v.01
+understand.v.01 grok.v.01 interpret.v.01 solve.v.01
+cook.v.03
+increase.v.02
+adjust.v.01
+transfer.v.04
+sound.v.02
+rede.v.02
+tag.v.01
+meet.v.10
+run.v.06
+constitute.v.01
+spy.v.03
+admit.v.03
+supply.v.01 equip.v.01 yield.v.01 shelter.v.01
+transport.v.01
+hit.v.01
+evaluate.v.02 measure.v.04 rate.v.01 declare.v.04 think.v.01 accept.v.01 reject.v.01 expect.v.01 calculate.v.02 impute.v.01 disapprove.v.02 test.v.01
+establish.v.02
+correct.v.01
+adjust.v.03
+search.v.02
+raise.v.02
+experience.v.03
+desire.v.01
+add.v.01
+impute.v.01
+operate.v.03
+wield.v.02
+drop.v.02
+prize.v.01
+burn.v.05
+inspire.v.01
+wet.v.01
+resemble.v.01
+install.v.02
+groom.v.03 cleanse.v.01 dress.v.16
+rid.v.01
+join.v.02 assemble.v.01 match.v.03
+rise.v.01
+consume.v.02 eat.v.02 eat.v.01 drink.v.01 drink.v.02 feed.v.06 drug.v.02
+speculate.v.02
+fancify.v.01 groom.v.03 polish.v.01
+travel.v.05
+interact.v.01 communicate.v.02 relate.v.05 treat.v.01 meet.v.07 socialize.v.01 transact.v.01 consort.v.01
+order.v.02
+reorient.v.03
+impede.v.01
+turn.v.09
+insist.v.01
+exist.v.01
+attach.v.01 fasten.v.01 insert.v.01 tag.v.01
+change_intensity.v.01
+intensify.v.03
+pledge.v.01
+wrong.v.01 cheat.v.01 deceive.v.01
+appeal.v.02
+record.v.02
+decree.v.01
+gather.v.01
+stage.v.01
+contract.v.01
+become.v.01
+better.v.02 fancify.v.01 repair.v.01 educate.v.01 polish.v.02
+weaken.v.01
+compose.v.02
+exit.v.01
+talk.v.02 talk_of.v.01 sing.v.02
+spread.v.01 discharge.v.02 diffuse.v.01
+rejoice.v.01
+substitute.v.01
+suppress.v.01
+emit.v.01
+receive.v.01
+measure.v.03
+take.v.08
+breathe.v.01
+solicit.v.01
+spot.v.02
+gain.v.05
+fill.v.01 impregnate.v.02 load.v.01
+pierce.v.04
+represent.v.09 picture.v.02 draw.v.06
+control.v.01 manage.v.02 dominate.v.03 charm.v.02 steer.v.01
+watch.v.03
+utter.v.02 shout.v.02 repeat.v.04
+demand.v.01
+design.v.04
+communicate.v.02 gesticulate.v.01 grimace.v.01 inform.v.01 talk.v.02 carry.v.04 talk.v.01 inflict.v.01 address.v.01 telecommunicate.v.01 write.v.02
+discourage.v.02
+neglect.v.01
+assume.v.06
+cover.v.03
+air.v.03
+woo.v.02
+love.v.01
+make.v.15
+announce.v.01
+tire.v.02
+abridge.v.01
+transform.v.02
+educate.v.01
+distribute.v.01
+play.v.01
+affirm.v.03 claim.v.01 confirm.v.02
+shine.v.02
+profit.v.01
+play.v.06
+enable.v.01
+authorize.v.01 approve.v.01 license.v.01
+draw.v.06
+regenerate.v.01
+succeed.v.02
+show.v.04 uncover.v.01 expose.v.03
+hurl.v.01
+sew.v.01
+shake.v.01
+be.v.03 populate.v.01 cover.v.03 run.v.03 lie.v.01
+rush.v.01
+change_integrity.v.01 break.v.02 separate.v.05 cook.v.03 disintegrate.v.01 divide.v.01 blend.v.03 dissolve.v.02
+transform.v.03
+polish.v.02
+equip.v.01
+stress.v.01
+remember.v.02
+join.v.01
+remember.v.01
+change_state.v.01 better.v.03 dress.v.02 die.v.01 worsen.v.01 become.v.01 integrate.v.03
+publicize.v.01 circulate.v.02 air.v.03
+find.v.03
+pursue.v.02
+consume.v.03
+get_the_better_of.v.01
+grimace.v.01
+clean.v.01
+refrain.v.01
+restrict.v.02
+meet.v.07 group.v.02 crowd.v.03
+increase.v.01 grow.v.02 wax.v.02 add.v.01 intensify.v.03 intensify.v.02
+embarrass.v.01
+discolor.v.03
+guide.v.05
+charm.v.02
+calculate.v.02
+damage.v.01
+dislike.v.01
+stop.v.01
+decide.v.02
+pull.v.01
+inflict.v.01
+grok.v.01
+spend.v.01
+divide.v.01
+treat.v.03 medicate.v.02 operate_on.v.01
+drug.v.02
+persuade.v.02
+express.v.02 represent.v.05 state.v.01
+fire.v.02
+warn.v.01
+impart.v.01 impart.v.01.other express.v.01 mean.v.01
+tell.v.02 impart.v.01 unwrap.v.02 bespeak.v.01 publicize.v.01 repeat.v.01
+listen.v.01
+withdraw.v.09
+ask.v.02 ask.v.02.other order.v.01 invite.v.04
+obstruct.v.01
+order.v.01 command.v.02 call.v.05
+bend.v.01
+talk_of.v.01 rede.v.02 broach.v.01
+integrate.v.03
+indicate.v.02
+repeat.v.04
+free.v.01
+initiate.v.02 establish.v.02 organize.v.05
+populate.v.01
+fasten.v.01 tie.v.01 sew.v.01
+affect.v.02
+help.v.01
+charge.v.02
+intend.v.01
+prevent.v.01 obstruct.v.01 thwart.v.01
+jump.v.01
+speculate.v.01
+break.v.10
+applaud.v.02
+limit.v.02
+change_by_reversal.v.01 revert.v.01 correct.v.01 undo.v.01
+remove.v.01 draw.v.07 strip.v.03 dig.v.01 delete.v.01 withdraw.v.09
+dance.v.02
+diffuse.v.01
+destroy.v.02
+travel_rapidly.v.01
+confirm.v.01 verify.v.01 prove.v.02
+address.v.01
+hit.v.02
+calculate.v.01
+gain.v.08
+carry.v.04
+interest.v.01
+rate.v.01
+descend.v.01 dive.v.01 drop.v.02
+create.v.05
+adapt.v.01
+stop.v.05
+command.v.02
+broach.v.01
+license.v.01
+absorb.v.04
+immerse.v.01
+displease.v.01
+respect.v.02
+hold.v.10
+pass.v.01
+search.v.04
+run.v.03
+feed.v.02
+disappear.v.01
+mark.v.05
+wind.v.03
+think.v.01 think.v.01.other prize.v.01 respect.v.01
+match.v.03
+get_rid_of.v.01
+interpret.v.01
+unmake.v.01
+act.v.01 interact.v.01 react.v.01 try.v.01 wait.v.02 attack.v.03 set_about.v.01 force.v.08 create.v.03 perform.v.02 go.v.02 prosecute.v.03 woo.v.02 cope.v.01
+dress.v.02
+thwart.v.01
+indispose.v.03 hurt.v.02 tire.v.02
+excrete.v.01
+situate.v.01
+shorten.v.03
+decrease.v.01 weaken.v.02 decelerate.v.01 decline.v.04
+dress.v.01
+glide.v.01
+attach.v.03
+talk.v.01
+deny.v.04
+watch.v.01 observe.v.04 watch.v.03
+open.v.01
+process.v.01
+guarantee.v.02
+separate.v.08
+search.v.01
+steal.v.01
+blend.v.03
+load.v.01
+handle.v.04 handle.v.04.other operate.v.03 wield.v.02
+move_back_and_forth.v.01
+plant.v.01
+state.v.01 declare.v.01 present.v.02 answer.v.01 note.v.01
+support.v.01 help.v.01 promote.v.01
+socialize.v.01
+attack.v.02
+hurt.v.05
+worsen.v.02
+understand.v.02
+arrange.v.01
+confuse.v.02
+test.v.01
+function.v.01
+fail.v.01
+cram.v.02
+think_about.v.01
+necessitate.v.01
+transact.v.01
+medicate.v.02
+cheat.v.01
+dive.v.01
+revert.v.01
+create.v.03
+complete.v.01
+season.v.01
+uncover.v.02
+learn.v.02
+cover.v.02
+trade.v.01
+teach.v.01
+drink.v.02
+dismiss.v.01
+express.v.01 stress.v.01 give_voice.v.01
+invest.v.01
+promote.v.01
+return.v.01
+expand.v.02
+differ.v.01
+envelop.v.01
+have.v.02
+disparage.v.01
+concentrate.v.02
+tie.v.01
+treat.v.01 mock.v.01 wrong.v.01
+end.v.02 break.v.10 complete.v.01 decide.v.02
+confirm.v.02
+better.v.03
+succeed.v.01
+yield.v.01
+live.v.02
+inform.v.01 tell.v.02 misinform.v.01 explain.v.01 teach.v.01 testify.v.02 indicate.v.03 announce.v.01 warn.v.01 indicate.v.02 denounce.v.04
+account.v.02
+observe.v.04
+ascend.v.01
+accept.v.03 accept.v.03.other digest.v.03 authorize.v.01 admit.v.03
+create_verbally.v.01
+fly.v.01
+kill.v.01
+analyze.v.01 investigate.v.01 check.v.01
+dirty.v.01
+indicate.v.03
+eat.v.02 eat.v.01
+rule.v.02
+subject.v.01
+consume.v.05
+precipitate.v.03
+leave.v.02
+suffer.v.03
+assail.v.01
+hide.v.01
+accept.v.01 believe.v.01 respect.v.02
+set_about.v.01
+determine.v.01 count.v.01 situate.v.01
+arrive.v.01
+plan.v.03
+throw.v.01 hurl.v.01 fling.v.01
+shelter.v.01
+mean.v.01
+uncover.v.01
+restrict.v.03
+connect.v.03
+awaken.v.01
+work.v.02
+produce.v.02
+let_go_of.v.01
+obtain.v.01
+observe.v.06
+shape.v.03
+try.v.01
+fail.v.02
+steer.v.01
+reproduce.v.02
+look.v.01
+transfer.v.05 give.v.03 pass.v.05 exchange.v.01
+crowd.v.03
+save.v.02 save.v.02.other record.v.02 register.v.01
+lead.v.01
+stay.v.01
+affirm.v.02
+put.v.01 lay.v.02 insert.v.02 arrange.v.01 position.v.01 cram.v.02 plant.v.01
+radiate.v.05
+stimulate.v.03 frighten.v.01 inspire.v.01
+cope.v.01
+continue.v.10
+experience.v.01
+present.v.02
+appoint.v.02
+sound.v.06
+declare.v.04 admit.v.01 cancel.v.03 pronounce.v.02
+happen.v.01
+disable.v.01
+group.v.02
+react.v.01 accept.v.03 refuse.v.01
+win.v.01
+assume.v.01
+believe.v.01
+arrange.v.02
+mix.v.05
+proceed.v.02
+coerce.v.01
+look.v.02
+separate.v.12
+enter.v.01 enter.v.01.other pierce.v.05 pierce.v.04 immerse.v.01
+compete.v.01 play.v.01 race.v.02
+drink.v.01
+give.v.18
+convert.v.02
+draw.v.07
+roll.v.12
+agitate.v.06
+construct.v.01
+enforce.v.01
+pronounce.v.02
+expect.v.01 speculate.v.01 assume.v.01 think.v.02
+insert.v.01
+produce.v.01
+influence.v.01
+grow.v.08
+change_shape.v.01 twist.v.04 flex.v.05 bend.v.01
+sing.v.02
+separate.v.05
+impart.v.01.other
+ask.v.02.other
+comment.v.01.other
+restrain.v.01.other
+communicate.v.01.other
+pay.v.01.other
+accept.v.03.other
+note.v.01.other
+think.v.01.other
+measure.v.04.other
+convey.v.03.other
+save.v.02.other
+transfer.v.02.other
+handle.v.04.other
+enter.v.01.other
+take.v.04.other
+forget.v.01.other
+equal.v.01.other
+have.v.01.other
