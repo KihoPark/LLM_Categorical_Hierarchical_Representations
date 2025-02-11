@@ -1,5 +1,5 @@
 # Categorical_Hierarchical
-In our paper, we show that large language models represent categorical concepts as polytopes and hierarchical relations as orthogonality.
+In [our paper](https://arxiv.org/abs/2406.01506), we show that large language models represent categorical concepts as polytopes and hierarchical relations as orthogonality.
 
 We confirm our theory with Gemma-2B and LLaMA-3-8B representations and this repo provides the code for the experiments.
 
